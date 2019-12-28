@@ -35,7 +35,7 @@
     
   
  ## Status and Output:
-    ![Status of the service running.](status.png)
-    ![The Output.](output.png)
+   ![Status of the service running.](status.png)
+   ![The Output.](output.png)
     
        
