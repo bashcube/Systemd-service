@@ -33,7 +33,7 @@
     
   
  ## Status and Output:
-    ![Here's a screenshot of status of the service running.](https://github.com/bashcube/Systemd-service/status.png)
-    ![The Output when I accessed the localhost of my machine.](https://github.com/bashcube/Systemd-service/output.png)
+    ![Status of the service running.](status.png)
+    ![The Output.](output.png)
     
        
