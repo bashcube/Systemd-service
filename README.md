@@ -25,15 +25,11 @@
    ```bash
    $  sudo systemctl daemon-reload
    ```
-   Then starting the service using command:
+   Then starting the service using command and starting it at boot:
    ```bash
    $  sudo systemctl start server
-   ```
-    And finally enabling the service in order to start the service at 
-    boot using command:
-    ```bash
    $  sudo systemclt enable server
-    ```
+   ```
     
   
  ## Status and Output:
